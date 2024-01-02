@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFx9bCje6pIrNvInFAOZj+IcVZlOMPpm2ss2v3vyOwoxZ3b2rpCwy+btrLBFEJ+eE1ml/qdwk0GVoyCXU8CdPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Área de Trabalho\\DIO\\.NET\\DesafioTeste\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
